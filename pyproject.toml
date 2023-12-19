@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "sstc-st"
-version = "0.1.0"
+version = "0.1.1"
 description = "SSTC Streamlit toolbox"
 authors = ["Jobelund <124563223+jobelund@users.noreply.github.com>"]
 readme = "README.md"
